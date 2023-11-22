@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo Git, GitHub e JavaScript.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript.
 - 🚀 Estudante do DevClub
 - 📫 Meu email: daviih2000@gmail.com
 
