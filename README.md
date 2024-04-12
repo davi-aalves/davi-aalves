@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 23 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir minha primeira oportunidade no mercado.
+    Tenho 24 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir minha primeira oportunidade no mercado.
   </em>
 </p>
 
@@ -20,11 +20,11 @@
 - 🚀 Estudante do DevClub
 - 📫 Meu email: daviih2000@gmail.com
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
-- 📂 Criar meu portfólio [ ]
+- 📂 Criar meu portfólio [X]
 
-- 🤝 Contribuir em projetos open-source [X]
+- 🤝 Contribuir em projetos open-source [ ]
 
 - 📈 Conseguir uma experiência na área [ ]
 
