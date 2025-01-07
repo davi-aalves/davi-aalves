@@ -16,19 +16,19 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em JavaScript.
-- 🚀 Estudante do DevClub
-- 📫 Meu email: daviih2000@gmail.com
+- 🌱 Atualmente estou revendo alguns conceitos de JavaScript e me desenvolvendo em React.
+- 🚀 Atualmente trabalhando no setor de NOC.
+- 📫 Meu email: davi.alencar.dev@gmail.com
 
 ### 📊 Metas 2025:
 
-- 📂 Criar meu portfólio [X]
+- 📂 Criar meu portfólio em React [ ]
 
 - 🤝 Contribuir em projetos open-source [ ]
 
 - 📈 Conseguir uma experiência na área [ ]
 
-- 📖 Expandir meu conhecimento com livros e pessoas [X]
+- 📖 Expandir meu conhecimento com livros e pessoas [ ]
 
 - 💍 Casar e iniciar minha vida a dois com minha noiva [ ]
 
