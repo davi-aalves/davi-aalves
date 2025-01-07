@@ -20,7 +20,7 @@
 - 🚀 Estudante do DevClub
 - 📫 Meu email: daviih2000@gmail.com
 
-### 📊 Metas 2024:
+### 📊 Metas 2025:
 
 - 📂 Criar meu portfólio [X]
 
@@ -29,6 +29,8 @@
 - 📈 Conseguir uma experiência na área [ ]
 
 - 📖 Expandir meu conhecimento com livros e pessoas [X]
+
+- 💍 Casar e iniciar minha vida a dois com minha noiva [ ]
 
 ### ⚡ Tecnologias:
 
