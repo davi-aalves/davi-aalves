@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 24 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir minha primeira oportunidade no mercado.
+    Tenho 25 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir minha primeira oportunidade no mercado.
   </em>
 </p>
 
