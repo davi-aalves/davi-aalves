@@ -12,12 +12,12 @@
 
 <p>
   <em>
-    Tenho 25 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir minha primeira oportunidade no mercado.
+    Tenho 25 anos, sou do Ceará e atualmente estou estudando, fazendo projetos e networking com o objetivo de conseguir me desenvolver no mercado.
   </em>
 </p>
 
 - 🌱 Atualmente estou revendo alguns conceitos de JavaScript e me desenvolvendo em React.
-- 🚀 Atualmente trabalhando no setor de NOC.
+- 🚀 Atualmente estagiando em uma startup, como Suporte Nível 2.
 - 📫 Meu email: davi.alencar.dev@gmail.com
 
 ### 📊 Metas 2025:
@@ -26,11 +26,11 @@
 
 - 🤝 Contribuir em projetos open-source [ ]
 
-- 📈 Conseguir uma experiência na área [ ]
+- 📈 Conseguir uma experiência na área [x]
 
 - 📖 Expandir meu conhecimento com livros e pessoas [ ]
 
-- 💍 Casar e iniciar minha vida a dois com minha noiva [ ]
+- 💍 Casar e iniciar minha vida a dois com minha noiva [x]
 
 ### ⚡ Tecnologias:
 
