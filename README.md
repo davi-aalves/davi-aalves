@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou revendo alguns conceitos de JavaScript e me desenvolvendo em React.
+- 🌱 Atualmente estou revendo alguns conceitos de React e me desenvolvendo em Next.js.
 - 🚀 Atualmente estagiando em uma startup, como Suporte Nível 2.
 - 📫 Meu email: davi.alencar.dev@gmail.com
 
