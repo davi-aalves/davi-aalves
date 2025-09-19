@@ -28,7 +28,7 @@
 
 - 📈 Conseguir uma experiência na área [x]
 
-- 📖 Expandir meu conhecimento com livros e pessoas [ ]
+- 📖 Expandir meu conhecimento com livros e pessoas [x]
 
 - 💍 Casar e iniciar minha vida a dois com minha noiva [x]
 
